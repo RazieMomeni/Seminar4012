@@ -8,7 +8,9 @@ Tensorflow implementation of Semi-supervised Sequence Learning(https://arxiv.org
 # Requirements
 
   Python 
+  
   Tensorflow
+  
   pip install -r requirements.txt
 # Usage
 
