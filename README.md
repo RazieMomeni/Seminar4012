@@ -11,7 +11,9 @@ Tensorflow implementation of Semi-supervised Sequence Learning(https://arxiv.org
   
   Tensorflow
   
-  pip install -r requirements.txt
+  gensim==3.3.0
+  wget==3.2
+  nltk==3.2.5
 # Usage
 
 DBpedia dataset is used for pre-training and training.
