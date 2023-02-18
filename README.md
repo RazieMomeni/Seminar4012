@@ -12,8 +12,11 @@ Tensorflow implementation of Semi-supervised Sequence Learning(https://arxiv.org
   Tensorflow
   
   gensim==3.3.0
+  
   wget==3.2
+  
   nltk==3.2.5
+  
 # Usage
 
 DBpedia dataset is used for pre-training and training.
